@@ -1,0 +1,22 @@
+{
+    "version": "1.9.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/marcoarnulfo/clickup-cli/releases/download/v1.9.0/clup_1.9.0_windows_amd64.zip",
+            "bin": [
+                "clup.exe"
+            ],
+            "hash": "84338e2d12346ec225ac0a5cd4bddaf01e4d2b307f39f5dfb44ea7cd48bd49e2"
+        },
+        "arm64": {
+            "url": "https://github.com/marcoarnulfo/clickup-cli/releases/download/v1.9.0/clup_1.9.0_windows_arm64.zip",
+            "bin": [
+                "clup.exe"
+            ],
+            "hash": "aa4b6503ee8f98151a311dd7206d9e12bd36c52039a11ef2cc800200785f688a"
+        }
+    },
+    "homepage": "https://github.com/marcoarnulfo/clickup-cli",
+    "license": "MIT",
+    "description": "Terminal UI for ClickUp hours reports, billing and time tracking"
+}
